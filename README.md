@@ -6,7 +6,7 @@
 
 ## ABK Photos
 
-### User Story:
+### User Story 1:
 
 1.	As a customer I want to book an appointment for family photoshoot.
 
@@ -23,3 +23,14 @@
 9.	Redirects to contact page.
 10.	User enters name, email and subject of contact then clicks on submit button.
 
+### User Story 2:
+
+2.	As a user I want to learn about photographer.
+
+### User/Task Flow:
+
+1.	User navigates to website using browser address bar.
+2.	User Redirects to homepage.
+3.	User clicks on about me.
+4.	Redirects to about page.
+5.	User reads photographer bio.
