@@ -1,8 +1,8 @@
 ## Final Project
 
 **Team Work:**
-    Maryam Khan
-    Maha
+   - Maryam Khan
+   - Maha
 
 ## ABK Photos
 
@@ -22,4 +22,4 @@
 8.	User clicks on contact in navigation bar.
 9.	Redirects to contact page.
 10.	User enters name, email and subject of contact then clicks on submit button.
-# TaskFlow
+
